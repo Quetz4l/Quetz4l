@@ -56,7 +56,7 @@
     <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
     <a href="https://argo-cd.readthedocs.io" target="_blank"><img style="margin: 10px" src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" alt="ArgoCD" height="50" /></a>  
     <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-    <a href="https://developer.hashicorp.com/vagrant" target="_blank"><img style="margin: 10px" src="https://github.com/Quetz4l/Quetz4l/src/vagrant.png" alt="Vagrant" height="50" /></a>
+    <a href="https://developer.hashicorp.com/vagrant" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Quetz4l/Quetz4l/refs/heads/main/src/vagrant.png" alt="Vagrant" height="50" /></a>
     <a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" /></a>  
     <a href="https://prometheus.io/" target="_blank"><img style="margin: 10px" src="https://prometheus.io/_next/static/media/prometheus-logo.7aa022e5.svg" alt="Prometheus" height="50" /></a>  
     <a href="https://www.elastic.co/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="50" /></a>  
