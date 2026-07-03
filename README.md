@@ -1,4 +1,4 @@
-### <div align="center">Hi! I'm Quetz4l, a full-time full-stack developer and DevOps👨‍💻</div>
+### <div align="center">Hi! I'm Quetz4l, a full-stack developer and DevOps specialist👨‍💻</div>
 
 
 <br/>  
