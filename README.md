@@ -69,8 +69,3 @@
 </div>
 
 </td></tr></table>  
-
-<br/>  
-
-## Github Stats
-## [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Quetz4l&layout=compact&theme=radical)](https://github.com/stats-organization/github-stats-extended)
